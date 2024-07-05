@@ -1,0 +1,22 @@
+.section {
+    margin-bottom: 30px;
+    }
+.section h2 {
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    }
+    
+.section p, .section ul {
+    margin: 0;
+}
+
+.section ul {
+    padding-left: 20px;
+    list-style-type: disc;
+}
+
+.section ul li {
+    margin-bottom: 5px;
+}
+    
